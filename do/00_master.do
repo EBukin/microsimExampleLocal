@@ -9,30 +9,7 @@
 	
 	set type double, permanently
 	
-	*Please change this to your own path
-	if "`c(username)'" == "WB395877" {
-		global path "C:\Users\wb395877\GitHub\Example_FiscalSim" // Misha's path
-	}
 	
-	else if "`c(username)'" == "WB526693" {
-		global path "C:\Users\wb526693\Github_projects\Example_FiscalSim" // PUT YOU PATH HERE!!!
-	}
-	
-	else if "`c(username)'" == "wb532966" {
-		global path "C:\Users\wb532966\CEQ\Example_FiscalSim" // PUT YOU PATH HERE!!!
-	} 
-	
-	else if "`c(username)'" == "WB419055" {
-		global path "C:/Users/`c(username)'/OneDrive - WBG/Example_FiscalSim" // PUT YOU PATH HERE!!!
-	} 
-
-	else if "`c(username)'" == "Maya" {
-		global path "C:\Users\User\Documents\GitHub\WB-EPL\Example_FiscalSim" // PUT YOU PATH HERE!!!
-	} 
-	
-	else if "`c(username)'" == "" {
-		global path "" // PUT YOU PATH HERE!!!
-	}
 	
 
 *===============================================================================
