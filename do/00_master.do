@@ -17,7 +17,6 @@
 	else if "`c(username)'" == "" {
 		global path "" // PUT YOU PATH HERE!!!
 	}
-	
 
 *===============================================================================
 		*DO NOT MODIFY BEYOND THIS POINT
