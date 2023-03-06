@@ -1,7 +1,4 @@
-## Microsimulation example
-## Microsimulation example
-## Microsimulation example
-## Microsimulation example
+## microsimExampleLocal
 
 Here we create a new microsimulation for...
 
