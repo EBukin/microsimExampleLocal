@@ -1,5 +1,10 @@
 
+*.pptx
+*.docx
+/literature/
+
 literature/New Microsoft PowerPoint Presentation.pptx
 literature/Review.docx
 literature/Reviewy.pdf
 literature/New Microsoft PowerPoint Presentation - Copy.pptx
+
