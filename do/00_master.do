@@ -9,8 +9,14 @@
 	
 	set type double, permanently
 	
+	*Please change this to your own path
+	if "`c(username)'" == "WB395877" {
+		global path "C:\Users\wb395877\GitHub\Example_FiscalSim" // Misha's path
+	}
 	
-	
+	else if "`c(username)'" == "" {
+		global path "" // PUT YOU PATH HERE!!!
+	}
 
 *===============================================================================
 		*DO NOT MODIFY BEYOND THIS POINT
